@@ -7,4 +7,4 @@ x86 and x64 need their plattform to work with.
 Original 14.07_x86 and 15.05_x86 where forked from x-drum.
 
 x86 and x64 Images (Versions + Trunk) were retrieved from https://downloads.openwrt.org.
-RPi and RPi 2 Images were compiled from their Version and Trunk on 18.01.2016
+RPi and RPi 2 Images were compiled from their Version and Trunk on 24.03.2016
