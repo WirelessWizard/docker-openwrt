@@ -8,4 +8,4 @@ Original 14.07_x86 and 15.05_x86 where forked from x-drum.
 
 x86 and x64 Images (Versions + Trunk) were retrieved from https://downloads.openwrt.org.
 RPi, RPi 2 Images (15.05.1) were compiled from 15.05 on 23.05.2016
-RPi, RPi 2 and RPi 3 Images (latest/trunk/snapshot) were compiled from trunk on 23.05.2016
+RPi, RPi 2 and RPi 3 Images (latest/trunk/snapshot) were compiled from trunk on 12.10.2016
