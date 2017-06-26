@@ -13,7 +13,7 @@ x86 and x64 need their plattform to work with.
 ===================================
 
 #### Current Versions: 
-These Versions were compiled on 01.06.2017 from the OpenWRT Repos and are updated on "as needed" base.
+These Versions were compiled on 26.06.2017 from the OpenWRT Repos and are updated on "as needed" base.
 
 ##### trunk (main development tree) [https://github.com/openwrt/openwrt/tree/master]
 rpi / rpi2 / rpi3 / x86 / x64
@@ -24,7 +24,7 @@ rpi / rpi2 / x86 / x64
 ===================================
 
 #### Legacy Versions: 
-These Versions were compiled on 22.01.2016 from the OpenWRT Repos, except 14.07_x86 and 15.05_x86 where forked from x-drum. These repos are not updated anymore.
+These Versions were compiled on 22.01.2016 from the OpenWRT Repos, except 14.07_x86 and 15.05_x86 (forked from x-drum). These repos are not updated anymore.
 
 #####  15.05 branch (Chaos Calmer)
 rpi / rpi2 / x86 / x64
