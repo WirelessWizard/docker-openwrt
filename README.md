@@ -13,7 +13,7 @@ x86 and x64 need their plattform to work with.
 ===================================
 
 #### Current Versions: 
-These Versions were compiled on 05.07.2017 from the OpenWRT Repos and are updated on "as needed" base.
+These Versions were compiled on 01.08.2017 from the OpenWRT Repos and are updated on "as needed" base.
 
 ##### trunk (main development tree) [https://github.com/openwrt/openwrt/tree/master]
 rpi / rpi2 / rpi3 / x86 / x64
