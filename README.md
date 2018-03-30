@@ -24,13 +24,15 @@ rpi / rpi2 / rpi3 / x86 / x64
 ===================================
 
 #### Legacy Versions: 
+These Version were compiled on 30.03.2018 from the OpenWRT Repos and are legacy, therefore updated not too often
+
+##### 15.05.1 branch (Chaos Calmer)
+rpi / rpi2 / x86 / x64
+
 These Versions were compiled on 13.12.2017 from the OpenWRT Repos before the re-merge with LEDE and are not updated anymore.
 
 ##### trunk_old (main development tree)
 rpi / rpi2 / rpi3 / x86 / x64
-
-##### 15.05.1 branch (Chaos Calmer)
-rpi / rpi2 / x86 / x64
 
 These Versions were compiled on 22.01.2016 from the OpenWRT Repos, except 14.07_x86 and 15.05_x86 (forked from x-drum). These repos are not updated anymore.
 
