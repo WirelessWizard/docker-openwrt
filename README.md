@@ -13,7 +13,7 @@ x86 and x64 need their plattform to work with.
 ===================================
 
 #### Current Versions: 
-These Versions were compiled on 30.03.2018 from the OpenWRT Repos and are updated on "as needed" base.
+These Versions were compiled on 08.05.2018 from the OpenWRT Repos and are updated on "as needed" base.
 
 ##### trunk (main development tree) [https://github.com/openwrt/openwrt/tree/master]
 rpi / rpi2 / rpi3 / x86 / x64
@@ -24,7 +24,7 @@ rpi / rpi2 / rpi3 / x86 / x64
 ===================================
 
 #### Legacy Versions: 
-These Version were compiled on 30.03.2018 from the OpenWRT Repos and are legacy, therefore updated not too often
+These Version were compiled on 08.05.2018 from the OpenWRT Repos and are legacy, therefore updated not too often
 
 ##### 15.05.1 branch (Chaos Calmer)
 rpi / rpi2 / x86 / x64
